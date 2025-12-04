@@ -6,7 +6,7 @@ use App\Day02\Range;
 use App\Day02\StrictRange;
 use Illuminate\Support\Collection;
 
-class Day02 extends AbstractPuzzle
+class Day02GiftShop extends AbstractPuzzle
 {
     protected static int $day_number = 2;
 

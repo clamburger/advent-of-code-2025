@@ -4,7 +4,7 @@ namespace App\Puzzles;
 
 use App\Day01\Dial;
 
-class Day01 extends AbstractPuzzle
+class Day01SecretEntrance extends AbstractPuzzle
 {
     protected static int $day_number = 1;
 
