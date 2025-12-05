@@ -1,4 +1,4 @@
-# Advent of Code 2023
+# Advent of Code 2025
 
 My attempts at the [Advent of Code](https://adventofcode.com/2023) 2025.
 
